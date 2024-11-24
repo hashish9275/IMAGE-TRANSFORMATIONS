@@ -9,7 +9,7 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-Import necessary libraries such as OpenCV, NumPy, and Matplotlib for image processing and visualization.
+Import necessary libraries such as OpenCV, NumPy, and Matplotlib for image processing and visualization
 
 ### Step2:
 Read the input image using cv2.imread() and store it in a variable for further processing.
