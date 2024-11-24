@@ -182,3 +182,6 @@ plt.axis('off')
 ### Output
 
 ![image](https://github.com/user-attachments/assets/6c7981f4-4dc8-4637-b2ce-41c92c88366d)
+
+### Result:
+Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
